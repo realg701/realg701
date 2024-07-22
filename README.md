@@ -22,9 +22,7 @@
 <br>
 
 ## 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=realg701)](https://git.io/streak-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=realg701)](https://github.com/realg701/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realg701&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=realg701)](https://git.io/streak-stats) [![GitHub stats](https://github-readme-stats.vercel.app/api?username=realg701)](https://github.com/realg701/github-readme-stats)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realg701&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
