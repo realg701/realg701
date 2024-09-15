@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Front-end and back-end web developer.
 - 🌱 &nbsp; Enthusiast in Web Development and Artificial Intelligence .
-- ☕ &nbsp; A cup of coffee, the ultimate stress stress reliever. 
+- ☕ &nbsp; A cup of coffee, the ultimate stress reliever. 
 - 😄 Pronouns: He/Him
 
 <h3>🛠 Tech Stack</h3>
