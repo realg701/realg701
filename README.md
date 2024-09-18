@@ -14,7 +14,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; ReactJS | NextJS | NodeJS | ExpressJS
-- 🌐 &nbsp; Shopify | Wordpress | HTML | CSS | JavaScript | TypeScript | Tailwind CSS | Bootstrap | MUI
+- 👨‍💻 &nbsp; TypeScript | JavaScript | HTML | CSS
+- 💅 &nbsp; Tailwind CSS | Bootstrap | MUI
+- 🌐 &nbsp; Shopify | Wordpress
 - 🛢 &nbsp; MongoDB | Firebase
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Figma
