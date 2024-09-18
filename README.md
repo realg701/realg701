@@ -29,10 +29,13 @@
   <span><img alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=realg701" width="51%"/></span>
   <span><img src="./aligner.png" height=0 width=1% /></span> <!--invisible-->
   <span><img alt="GIF" src="https://github-readme-stats.vercel.app/api?username=realg701" width="46%"/></span>
+  </br>
+  </br>
+  <img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realg701&layout=compact&text_color=daf7dc&bg_color=151515" width="50%" max-width="500px"/>
 </div>
 
 <h3> 🤝🏻 Connect with Me </h3>
-
+</br>
 <p align="center">
 &nbsp; <a href="https://twitter.com/realg701/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=ffffff" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/en_ediut/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/?size=100&id=32292&format=png&color=ffffff" width="50" /></a> 
