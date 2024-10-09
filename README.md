@@ -7,7 +7,7 @@
 - 💅 &nbsp; Tailwind CSS | Bootstrap | MUI
 - 👨‍💻 &nbsp; TypeScript | JavaScript | HTML | CSS
 - 🛢 &nbsp; MongoDB | Firebase
-- 🌐 &nbsp; Shopify
+- 🌐 &nbsp; Shopify | SEO | SemRush
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Figma
 
