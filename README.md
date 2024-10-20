@@ -4,7 +4,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; ReactJS | NextJS | NodeJS | ExpressJS
-- 💅 &nbsp; Tailwind CSS | Bootstrap | MUI
+- 💅 &nbsp; Tailwind CSS | Bootstrap | MUI | Shadcn
 - 👨‍💻 &nbsp; TypeScript | JavaScript | HTML | CSS
 - 🛢 &nbsp; MongoDB | Supabase | Firebase | Docker | TanStack
 - 🌐 &nbsp; Shopify | SEO | SemRush
