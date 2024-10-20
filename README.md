@@ -6,7 +6,7 @@
 - 💻 &nbsp; ReactJS | NextJS | NodeJS | ExpressJS
 - 💅 &nbsp; Tailwind CSS | Bootstrap | MUI
 - 👨‍💻 &nbsp; TypeScript | JavaScript | HTML | CSS
-- 🛢 &nbsp; MongoDB | Supabase | Firebase | Docker
+- 🛢 &nbsp; MongoDB | Supabase | Firebase | Docker | TanStack
 - 🌐 &nbsp; Shopify | SEO | SemRush
 - 🔧 &nbsp; Visual Studio code | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Figma
