@@ -9,7 +9,7 @@
 - 🛢 &nbsp; MongoDB | Supabase | Firebase | Docker | TanStack
 - 🌐 &nbsp; Shopify | SEO | SemRush
 - 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Illustrator | Photoshop | Figma
+- 🖥 &nbsp; Illustrator | Photoshop | Figma | Rich Text Editor(RTE)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
