@@ -8,7 +8,7 @@
 - 👨‍💻 &nbsp; TypeScript | JavaScript | HTML | SCSS | CSS
 - 🛢 &nbsp; MongoDB | Supabase | Firebase | Docker | TanStack
 - 🌐 &nbsp; Shopify | SEO | SemRush | Clerk
-- 🔧 &nbsp; Visual Studio code | Git
+- 🔧 &nbsp; Visual Studio code | Git | Github Desktop
 - 🖥 &nbsp; Illustrator | Photoshop | Figma | Rich Text Editor(RTE)
 
 <h3> 👨🏻‍💻 About Me </h3>
