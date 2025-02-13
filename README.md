@@ -26,7 +26,7 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <span><img alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=realg701" width="51%"/></span>
+<!--   <span><img alt="GIF" src="https://github-readme-streak-stats.herokuapp.com?user=realg701" width="51%"/></span> -->
   <span><img src="./aligner.png" height=0 width=1% /></span> <!--invisible-->
   <span><img alt="GIF" src="https://github-readme-stats.vercel.app/api?username=realg701" width="46%"/></span>
   </br>
